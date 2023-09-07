@@ -1,0 +1,8 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Um aplicativo Express.js simples",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
