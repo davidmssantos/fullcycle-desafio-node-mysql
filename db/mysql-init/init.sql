@@ -1,4 +1,3 @@
--- init.sql
 CREATE DATABASE IF NOT EXISTS nodedb;
 USE nodedb;
 
