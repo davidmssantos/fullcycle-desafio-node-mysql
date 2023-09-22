@@ -5,3 +5,5 @@ O desafio envolve criar um banco de dados MySQL com uma tabela e criar uma aplic
 ##### Rodando a Aplicação
 
 Dentro da pasta do projeto rode "docker-compose up". Você poderá acessar o resultado abrindo o navegador em http://localhost:8080
+
+Teste
